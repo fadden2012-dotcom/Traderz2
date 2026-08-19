@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+yfinance
+lightgbm
+scikit-learn
+pandas
+numpy
+alpaca-py
